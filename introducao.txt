@@ -1,3 +1,5 @@
 Instrução prática PI-P002
 
 Atividade prática sobre repositório git/gitHub.
+
+Fechando versão 1.0
